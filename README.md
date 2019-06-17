@@ -1,7 +1,10 @@
 # RNN-LSTM-Foreseeing_the_Financial_Crisis
-Attempting to capture impending financial doom using stock data data from 2006-2011
 
-For this tutorial,we will be using the Kaggle “stock data” dataset to attempt to forecast stock prices. This dataset lists the performance of some of the major banks before, during, and after the financial crisis.
+<p align="center">
+  <img src="https://github.com/EXJUSTICE/RNN-LSTM-Foreseeing_the_Financial_Crisis/blob/master/RNNresults.png" >
+</p>
+
+In this tutorial,we will be using the Kaggle “stock data” dataset to attempt to forecast stock prices. This dataset lists the performance of some of the major banks before, during, and after the financial crisis.
 To test the robustness of our system and better understand its limitations, we devised a series of scenarios where differing amounts of data was available for our model.
 
 Scenario A: January 2006-December 2006 (pre-GFC data; 252 datapoints)
