@@ -2,6 +2,8 @@
 
 <p align="center">
   <img src="https://github.com/EXJUSTICE/RNN-LSTM-Foreseeing_the_Financial_Crisis/blob/master/RNNresults.png" >
+  
+  
   <em> Prediction results from model trained on pre-EDSC data (Jan 2006-Jan 2011), using moving average data over 20, 40, and 80 days.</em>
 </p>
 
