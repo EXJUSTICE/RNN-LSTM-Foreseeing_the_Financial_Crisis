@@ -5,6 +5,8 @@ For this tutorial,we will be using the Kaggle “stock data” dataset to attemp
 To test the robustness of our system and better understand its limitations, we devised a series of scenarios where differing amounts of data was available for our model.
 
 Scenario A: January 2006-December 2006 (pre-GFC data; 252 datapoints)
+
+
 Scenario B: January 2006-January 2011 (post-GFC, pre-EDSC data;1260 datapoints)
 
 * Import the dataset and create a dataframe of the closing price.
